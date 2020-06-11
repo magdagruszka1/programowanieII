@@ -1,2 +1,2 @@
 # Programowanie2
-reverse Polish notation
+Odwrócona notacja polska
